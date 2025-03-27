@@ -1,0 +1,6 @@
+torch  
+torchaudio  
+yt-dlp  
+ffmpeg-python  
+sox
+soundfile
